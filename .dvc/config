@@ -1,0 +1,8 @@
+[core]
+    remote = dvc_data
+['remote "myremote"']
+    url = C:/Users/manar/AppData/Local/Temp/dvc-storage
+['remote "mydrive"']
+    url = gdrive://10zUV-iRBnUE3S2cRquevPCFNBhEYKZUQ
+['remote "dvc_data"']
+    url = gdrive://10zUV-iRBnUE3S2cRquevPCFNBhEYKZUQ
